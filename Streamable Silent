@@ -1,6 +1,6 @@
 _G.Prediction =  (  0.14 )
 
-_G.FOV =  (  20  )
+_G.FOV =  (  25  )
 
 _G.AimKey =  (  "="  )
 
